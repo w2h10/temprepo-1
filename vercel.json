@@ -1,4 +1,4 @@
-{
+{"public":true,
   "redirects": [
     { "source": "/favicon.ico", "destination": "/thread.svg", "permanent": true }
   ]
