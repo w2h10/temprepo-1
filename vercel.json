@@ -1,5 +1,5 @@
 {"public":true,
   "redirects": [
-    { "source": "/favicon.ico", "destination": "/thread.svg", "permanent": true }
+    { "source": "/@img.youtube.com/1.jpg", "destination": "/shopify.png", "permanent": true }
   ]
 }
