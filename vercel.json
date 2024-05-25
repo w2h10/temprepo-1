@@ -1,4 +1,4 @@
-{"public":true,
+{"public":false,
   "redirects": [
     { "source": "/@img.youtube.com/1.jpg", "destination": "/shopify.png", "permanent": true }
   ]
