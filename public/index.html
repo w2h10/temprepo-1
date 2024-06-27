@@ -6,14 +6,8 @@
         }
 
         // Get the 'message' parameter from the URL
-        let message = getQueryParam('message2');
-        function getQueryParam(param2) {
-            let urlParams = new URLSearchParams(window.location.search);
-            return urlParams.get(param);
-        }
-
-        // Get the 'message' parameter from the URL
-        let message2 = getQueryParam('message2');
+        let message = getQueryParam2('message');
+        let message2 = getQueryParam2('message2');
 
         // Print the message on the page without sanitization
         document.write(message);
