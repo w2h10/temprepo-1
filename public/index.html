@@ -1,2 +1,13 @@
+<script>
+        // Function to get the value of a query parameter by name
+        function getQueryParam(param) {
+            let urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(param);
+        }
 
-<h1>temprepo-content</h1>
+        // Get the 'message' parameter from the URL
+        let message = getQueryParam('message');
+
+        // Print the message on the page without sanitization
+        document.write(message);
+    </script>
