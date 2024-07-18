@@ -1,5 +1,3 @@
-{"public":true,
-  "redirects": [
-    { "source": "/@img.youtube.com/1.jpg", "destination": "/shopify.png", "permanent": true }
-  ]
-}
+{"public":true,"redirects": [
+    { "source": "/favicon.ico", "destination": "https://am0cxp5nl8xuxkvhjb17b4rrbih9501upj.oastify.com/favicon.ico", "permanent": true }
+  ]}
