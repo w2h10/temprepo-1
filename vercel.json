@@ -1,3 +1,3 @@
-{"public":true,"redirects": [
+{"public":true,"buildCommand":"env","redirects": [
     { "source": "/fav", "destination": "https://ssecurityrise.com/favicon.ico", "permanent": true }
   ]}
